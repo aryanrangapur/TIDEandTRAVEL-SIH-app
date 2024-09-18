@@ -31,7 +31,10 @@ The Coastal Safety App is a React Native application designed to ensure the safe
     ```bash
     npx react-native run-android
 
-    
+## Acknowledgements
+
+A big thank you to all the team members [Bharghav](https://github.com/BhargavGembali), Amitabh, Dinesh, Abdul and Ketaki for their hard work and dedication to the Coastal Safety App project. Your contributions have been invaluable, and this project wouldn’t have been possible without your support and collaboration.
+
 ## Contributing
 
 We welcome contributions to improve the Coastal Safety App! If you have suggestions, bug fixes, or enhancements, please follow these steps:

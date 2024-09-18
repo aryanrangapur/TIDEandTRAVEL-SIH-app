@@ -1,83 +1,46 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Coastal Safety App</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
-        }
-        .container {
-            width: 80%;
-            margin: auto;
-            overflow: hidden;
-        }
-        header {
-            background: #0288D1;
-            color: #fff;
-            padding-top: 30px;
-            min-height: 70px;
-            border-bottom: #fff 3px solid;
-            text-align: center;
-        }
-        header h1 {
-            margin: 0;
-            font-size: 2.5em;
-        }
-        .content {
-            padding: 20px;
-            background: #fff;
-            border-radius: 5px;
-            margin: 20px 0;
-        }
-        h2 {
-            color: #0288D1;
-        }
-        code {
-            background: #e7e7e7;
-            padding: 2px 5px;
-            border-radius: 3px;
-        }
-    </style>
-</head>
-<body>
-    <header>
-        <h1>Coastal Safety App</h1>
-    </header>
+# Coastal Safety App
 
-    <div class="container">
-        <div class="content">
-            <h2>Overview</h2>
-            <p>The Coastal Safety App is a React Native application designed to ensure tourist safety during coastal recreational activities by providing real-time insights into beach conditions across India.</p>
+## Overview
 
-            <h2>Features</h2>
-            <ul>
-                <li>Monitor beach safety parameters including ocean alerts, meteorological data, and water quality.</li>
-                <li>Provide real-time safety recommendations for beaches.</li>
-                <li>Display geospatial maps showing beach safety levels.</li>
-                <li>Alert users based on their location with real-time risk notifications.</li>
-            </ul>
+The Coastal Safety App is a React Native application designed to ensure the safety of tourists during coastal recreational activities. It provides real-time insights into beach conditions across India, helping users make informed decisions about their beach visits.
 
-            <h2>Tech Stack</h2>
-            <p>React Native, react-native-vector-icons, react-navigation, INCOIS API</p>
+## Features
 
-            <h2>Getting Started</h2>
-            <p>Clone the repository and install dependencies:</p>
-            <code>git clone https://github.com/your-username/your-repo.git</code><br>
-            <code>cd your-repo</code><br>
-            <code>npm install</code><br>
-            <p>Run the application:</p>
-            <code>npx react-native run-android</code><br>
-            <code>npx react-native run-ios</code>
+- **Monitor Beach Safety Parameters:** Tracks ocean alerts (high waves, storm surges, strong currents, tsunami risks), meteorological data (wind speeds), and water quality.
+- **Real-Time Safety Recommendations:** Classifies beaches as "suitable" or "not suitable" for tourism activities based on current conditions.
+- **Geospatial Visualization:** Displays beach safety on a map with color codes indicating safety levels.
+- **Location-Based Alerts:** Notifies users of immediate or upcoming risks in their vicinity using data from the INCOIS API.
 
-            <h2>Contributing</h2>
-            <p>Contributions are welcome! Open issues or submit pull requests to improve the project.</p>
-        </div>
-    </div>
-</body>
-</html>
+## Tech Stack
+
+- **React Native:** Framework for building cross-platform mobile apps.
+- **react-native-vector-icons:** Library for customizable icons.
+- **react-navigation:** Routing and navigation library for React Native apps.
+- **INCOIS API:** Provides real-time oceanic and meteorological data.
+
+## Getting Started
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/your-username/your-repo.git
+2. **Install Dependencies:**
+    ```bash
+    cd your-repo
+    npm install
+3. **Run the Application:**
+    ```bash
+    npx react-native run-android
+
+    
+## Contributing
+
+We welcome contributions to improve the Coastal Safety App! If you have suggestions, bug fixes, or enhancements, please follow these steps:
+
+1. **Open an Issue:** If you have a suggestion or find a bug, open an issue in the repository to describe the problem or feature request.
+
+2. **Submit a Pull Request:** If you have made changes or improvements, please submit a pull request. Ensure your changes are well-tested and provide a clear description of the modifications.
+
+3. **Code of Conduct:** Please adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) when contributing to this project.
+
+Thank you for your interest in contributing to the Coastal Safety App!
+

@@ -1,8 +1,8 @@
-# Coastal Safety App
+# TIDE & TRAVEL - Coastal Safety App
 
 ## Overview
 
-The Coastal Safety App is a React Native application designed to ensure the safety of tourists during coastal recreational activities. It provides real-time insights into beach conditions across India, helping users make informed decisions about their beach visits.
+Tide & Travel is a React Native application designed to ensure the safety of tourists during coastal recreational activities. It provides real-time insights into beach conditions across India, helping users make informed decisions about their beach visits.
 
 ## Features
 

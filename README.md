@@ -43,7 +43,5 @@ We welcome contributions to improve the Coastal Safety App! If you have suggesti
 
 2. **Submit a Pull Request:** If you have made changes or improvements, please submit a pull request. Ensure your changes are well-tested and provide a clear description of the modifications.
 
-3. **Code of Conduct:** Please adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) when contributing to this project.
-
 Thank you for your interest in contributing to the Coastal Safety App!
 
